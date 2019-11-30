@@ -6,7 +6,7 @@ Connect as shown in the picture
 DATA to GPIO17 (default)
 
 ![Wiring](wiring.png)
-
+Transmitter graphic is under MIT license.
 ## Run script
 ```
 ./hamasender.py <buttonnr> <on|off>
