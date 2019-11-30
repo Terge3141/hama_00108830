@@ -1,4 +1,4 @@
-# hama_00108830
+# Hama wireless socket 00108830
 A very simple sender for hama 00108830 wireless socket written in python
 
 ## Setup
