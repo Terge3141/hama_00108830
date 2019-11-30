@@ -5,6 +5,8 @@ A very simple sender for hama 00108830 wireless socket
 Connect as shown in the picture
 DATA to GPIO17 (default)
 
+![Wiring](wiring.png)
+
 ## Run script
 ```
 ./hamasender.py <buttonnr> <on|off>
