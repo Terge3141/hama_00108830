@@ -7,13 +7,11 @@ import sys
 gpiopin = 17
 repeatcnt = 10
 
-# mean pulselength 450
-# sync 20320
-# S ~ 450
-# L ~ 1350 3*450 = 
-# V ~ 3400
-PULSE_S = 450
-PULSE_L = 1400
+# Other options, depends on the system
+#PULSE_S = 450
+#PULSE_L = 1400
+PULSE_S = 400
+PULSE_L = 1200
 PULSE_V = 3400
 
 codes = {
